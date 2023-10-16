@@ -4,7 +4,7 @@
   "description": "npm init npm i express",
   "main": "index.js",
   "engines": {
-    "node": "16.17.0"
+    "node": "v18.18.0"
   },
   "scripts": {
     "start": "node index.js"
